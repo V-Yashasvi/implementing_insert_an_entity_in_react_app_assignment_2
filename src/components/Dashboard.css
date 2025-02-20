@@ -13,7 +13,7 @@
 
 .add-movie-button {
   padding: 10px 20px;
-  background-color: #007bff;
+  background-color: #d8792b;
   color: white;
   border: none;
   border-radius: 4px;
@@ -21,7 +21,7 @@
 }
 
 .add-movie-button:hover {
-  background-color: #0056b3;
+  background-color: #cf9134;
 }
 
 .movie-list {
